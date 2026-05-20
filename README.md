@@ -42,7 +42,8 @@ Where:
 
 ## Sample Input
 
-6
+6 (number of transaction records)
+
 4500 1200 7800 3000 2500 9000
 
 
